@@ -79,7 +79,7 @@ sistema-bancario/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-bancario.git
+git clone https://github.com/nicolasnava/sistema-bancario-python.git
 cd sistema-bancario
 ```
 
